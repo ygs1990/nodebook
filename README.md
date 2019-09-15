@@ -1,2 +1,6 @@
-# nodebook
-This a electric book of node
+---
+description: Some notes of javascript
+---
+
+# Initial page
+
