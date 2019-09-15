@@ -2,5 +2,5 @@
 description: Some notes of javascript
 ---
 
-# Initial page
+# 引导页
 
